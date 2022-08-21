@@ -1,4 +1,4 @@
--- usefule ghci command
+-- useful ghci command
 -- :q : quit
 -- :r : reload
 -- :t obj_name : return type of obj_name
